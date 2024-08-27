@@ -254,10 +254,6 @@ En el artículo 30 se plantea que las dependencias y entidades de la administrac
 
 * I. Elaborar y publicar los atlas de riesgo que consideren los escenarios de vulnerabilidad actual y futura ante el cambio climático, tomando en consideración la información del Atlas Nacional de Vulnerabilidad al Cambio Climático, atendiendo de manera preferencial a la población más vulnerable y a las zonas de mayor riesgo, así como a las islas, zonas costeras y deltas de ríos;
 
-***
-
-## Actualización del Programa Subregional de Desarrollo Urbano de la región de Loreto-Nopoló-Notrí-Puerto Escondido-Ligüí-Ensenada Blanca
-
 II. Utilizar la información contenida en los atlas de riesgo como en el Atlas Nacional de Vulnerabilidad al Cambio Climático, para la elaboración de los planes de desarrollo urbano, reglamentos de construcción y ordenamiento territorial de las entidades federativas y municipios; y para prevenir y atender el posible desplazamiento interno de personas provocado por fenómenos relacionados con el cambio climático;
 
 III. Proponer e impulsar mecanismos de recaudación y obtención de recursos, para destinarlos a la protección y reubicación de los asentamientos humanos más vulnerables ante los efectos del cambio climático;
@@ -276,9 +272,7 @@ Ley de Aguas Nacionales. Última reforma publicada en el Diario Oficial de la Fe
 
 Esta Ley reglamentaria del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos en materia de aguas nacionales, data del 1 de diciembre de 1992 y se reformó por última vez el 8 de mayo de 2023. En el artículo 1° la Ley señala que tiene por objeto regular la explotación, uso o aprovechamiento de todas las aguas nacionales, su distribución y control, así como la preservación de su cantidad y calidad para lograr su desarrollo integral sustentable.
 
-### El artículo 113 se refiere a la administración por parte de la Comisión Nacional del Agua de las playas y zonas federales; la fracción II señala que los terrenos ocupados por los vasos de lagos, lagunas, esteros o depósitos naturales cuyas aguas sean de propiedad nacional; fracción III) los cauces de las corrientes de aguas nacionales; fracción IV) riberas o zonas federales contiguas a los cauces de las corrientes y a los vasos o depósitos de propiedad nacional; fracción V) los terrenos de los cauces y los de los vasos de lagos, lagunas o esteros de propiedad nacional; fracción VI) las islas que existen o que se formen en los vasos de lagos, lagunas, esteros, presas y depósitos o en los cauces de corrientes de propiedad nacional, excepto las que se formen cuando una corriente segregue terrenos de propiedad particular, ejidal o comunal; fracción VII) las obras de infraestructura hidráulica financiadas por el gobierno federal, como presas, diques, vasos, canales, drenes, bordos, zanjas, acueductos, distritos o unidades de riego y demás construidas para la explotación, uso, aprovechamiento, control de inundaciones y manejo de las aguas nacionales, con los terrenos que ocupen y con las zonas de protección, en la extensión que en cada caso fije la Comisión Nacional del Agua.
-
-## Actualización del Programa Subregional de Desarrollo Urbano de la región de Loreto-Nopoló-Notrí-Puerto Escondido-Ligüí-Ensenada Blanca
+El artículo 113 se refiere a la administración por parte de la Comisión Nacional del Agua de las playas y zonas federales; la fracción II señala que los terrenos ocupados por los vasos de lagos, lagunas, esteros o depósitos naturales cuyas aguas sean de propiedad nacional; fracción III) los cauces de las corrientes de aguas nacionales; fracción IV) riberas o zonas federales contiguas a los cauces de las corrientes y a los vasos o depósitos de propiedad nacional; fracción V) los terrenos de los cauces y los de los vasos de lagos, lagunas o esteros de propiedad nacional; fracción VI) las islas que existen o que se formen en los vasos de lagos, lagunas, esteros, presas y depósitos o en los cauces de corrientes de propiedad nacional, excepto las que se formen cuando una corriente segregue terrenos de propiedad particular, ejidal o comunal; fracción VII) las obras de infraestructura hidráulica financiadas por el gobierno federal, como presas, diques, vasos, canales, drenes, bordos, zanjas, acueductos, distritos o unidades de riego y demás construidas para la explotación, uso, aprovechamiento, control de inundaciones y manejo de las aguas nacionales, con los terrenos que ocupen y con las zonas de protección, en la extensión que en cada caso fije la Comisión Nacional del Agua.
 
 Ley Federal del Mar. Publicada en el Diario Oficial de la Federación: 09 de enero de 1986.
 
@@ -311,9 +305,7 @@ De acuerdo con los artículos 7° y 8°, las autoridades de las entidades federa
 
 El artículo 27 indica que son propiedad de la Nación, inalienables e imprescriptibles, los monumentos arqueológicos muebles e inmuebles. El artículo 28 indica que son monumentos arqueológicos los bienes muebles e inmuebles, producto de culturas anteriores al establecimiento de la hispánica en el territorio nacional, así como los restos humanos, de la flora y de la fauna, relacionados con esas culturas.
 
-### El artículo 33 determina que son monumentos artísticos los bienes muebles e inmuebles que revistan valor estético relevante y el artículo 35 menciona que son monumentos históricos los bienes vinculados con la historia de la Nación, a partir del establecimiento de la cultura hispánica en el país.
-
-## Actualización del Programa Subregional de Desarrollo Urbano de la región de Loreto-Nopoló-Notrí-Puerto Escondido-Ligüí-Ensenada Blanca
+El artículo 33 determina que son monumentos artísticos los bienes muebles e inmuebles que revistan valor estético relevante y el artículo 35 menciona que son monumentos históricos los bienes vinculados con la historia de la Nación, a partir del establecimiento de la cultura hispánica en el país.
 
 Ley General de Bienes Nacionales. Última reforma publicada en el Diario Oficial de la Federación: 3 de mayo de 2023.
 
@@ -329,9 +321,7 @@ En su artículo 4 establece que la zona federal marítimo terrestre se determina
 
 En el caso de los ríos, la zona federal marítimo terrestre se determinará por la Secretaría desde la desembocadura de éstos en el mar hasta el punto río arriba donde llegue el mayor flujo anual, lo que no excederá en ningún caso los doscientos metros.
 
-### En el artículo 10 de este Reglamento se indica que el gobierno federal a través de la Secretaría de Desarrollo Agrario, Territorial y Urbano, establecerá las bases de coordinación para el uso, desarrollo, administración y delimitación de las playas, de la zona federal marítimo terrestre, terrenos ganados al mar, o a cualquier otro depósito que se forme con aguas marítimas, solicitando al efecto la participación de los gobiernos estatales y municipales, sin perjuicio de las atribuciones que este Reglamento otorga a la Secretaría de Comunicaciones y Transportes y otras dependencias competentes.
-
-## Actualización del Programa Subregional de Desarrollo Urbano de la región de Loreto-Nopoló-Notrí-Puerto Escondido-Ligüí-Ensenada Blanca
+En el artículo 10 de este Reglamento se indica que el gobierno federal a través de la Secretaría de Desarrollo Agrario, Territorial y Urbano, establecerá las bases de coordinación para el uso, desarrollo, administración y delimitación de las playas, de la zona federal marítimo terrestre, terrenos ganados al mar, o a cualquier otro depósito que se forme con aguas marítimas, solicitando al efecto la participación de los gobiernos estatales y municipales, sin perjuicio de las atribuciones que este Reglamento otorga a la Secretaría de Comunicaciones y Transportes y otras dependencias competentes.
 
 1.2.2. Marco jurídico Estatal
 
@@ -349,9 +339,7 @@ Las funciones y servicios públicos que el municipio tendrá a su cargo serán l
 
 a) Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales.b) Alumbrado público;c) Seguridad pública en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, Policía preventiva y de tránsito municipales;d) Limpia, recolección, traslado, tratamiento y disposición final de residuos;e) Mercados públicos y Centrales de abastos;f) Panteones;g) Rastros;h) Calles, parques, jardines y su equipamiento;i) Los demás que el Congreso del Estado determine, según las condiciones territoriales y socioeconómicas de los municipios, así como de su capacidad administrativa y financiera.
 
-### Ley de Planeación del Estado de Baja California Sur. Última reforma publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur: 15 de diciembre del 2021
-
-## Actualización del Programa Subregional de Desarrollo Urbano de la región de Loreto-Nopoló-Notrí-Puerto Escondido-Ligüí-Ensenada Blanca
+Ley de Planeación del Estado de Baja California Sur. Última reforma publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur: 15 de diciembre del 2021
 
 La presente Ley fue publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur el 20 de enero de 2020 con una última reforma el 15 de diciembre del 2021. De acuerdo con el artículo 1°, tiene como parte de sus objetos establecer las normas y principios básicos conforme a los cuales se llevará a cabo la planeación democrática para el desarrollo del Estado de Baja California Sur.
 
@@ -363,7 +351,7 @@ En el artículo 3° La planeación democrática para el desarrollo se instrument
 
 III. La igualdad de derechos y de oportunidades sustentados en la atención de las necesidades prioritarias de la población, la mejora de la calidad de vida de las personas y el abatimiento de la pobreza para lograr una sociedad más igualitaria y justa;VI. El enfoque de género para garantizar la igualdad de oportunidades entre mujeres y hombres, y promover el adelanto de las mujeres mediante el acceso igualitario a los bienes, recursos y beneficios del desarrollo;
 
-## Ley de Desarrollo Urbano para el Estado de Baja California Sur
+Ley de Desarrollo Urbano para el Estado de Baja California Sur
 
 Última reforma publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur: 10 de septiembre de 2018
 
@@ -379,10 +367,6 @@ La Ley de Desarrollo Urbano para el Estado de Baja California Sur fue publicada 
 En el artículo 4, establece que el ordenamiento territorial de los asentamientos humanos, la regulación y el desarrollo urbano de los centros de población en el Estado, tenderán a mejorar las condiciones de vida de la población urbana y rural, mediante:
 
 1. La vinculación del desarrollo regional y urbano con el bienestar social de la población, utilizando los recursos naturales, áreas y predios urbanos susceptibles de expropiación, procurando la conservación y protección del medio ambiente.
-
-***
-
-## Actualización del Programa Subregional de Desarrollo Urbano de la región de Loreto-Nopoló-Notrí-Puerto Escondido-Ligüí-Ensenada Blanca
 
 II. El desarrollo socioeconómico sustentable del Estado, armonizando la interrelación de las ciudades y el campo, y distribuyendo equitativamente los beneficios y cargas del proceso de desarrollo urbano.
 
@@ -420,9 +404,7 @@ En el artículo 9º se establece que las atribuciones en materia de ordenamiento
 
 El artículo 31 dice que los programas subregionales de desarrollo urbano deberán contener los mismos conceptos de los Programas Municipales de Desarrollo Urbano, referidos en el artículo 18 de esta Ley, mismos que a continuación se enuncian:
 
-### I. El diagnóstico de la situación de los asentamientos humanos en el territorio del Estado, sus causas y consecuencias;II. El patrón de distribución de la población y de las actividades económicas en el territorio estatal;III. La estructura de sistemas urbanos y rurales en el Estado;IV. La estrategia general aplicable al ordenamiento territorial de los asentamientos humanos y al desarrollo urbano de los centros de población;V. Las orientaciones para el desarrollo sustentable de las regiones del Estado en función de sus recursos naturales, de sus actividades productivas y del equilibrio entre los asentamientos humanos y sus condiciones ambientales;VI. Las necesidades que en materia de desarrollo urbano planteen el volumen, estructura, dinámica y distribución de la población;
-
-## Actualización del Programa Subregional de Desarrollo Urbano de la región de Loreto-Nopoló-Notrí-Puerto Escondido-Ligüí-Ensenada Blanca
+I. El diagnóstico de la situación de los asentamientos humanos en el territorio del Estado, sus causas y consecuencias;II. El patrón de distribución de la población y de las actividades económicas en el territorio estatal;III. La estructura de sistemas urbanos y rurales en el Estado;IV. La estrategia general aplicable al ordenamiento territorial de los asentamientos humanos y al desarrollo urbano de los centros de población;V. Las orientaciones para el desarrollo sustentable de las regiones del Estado en función de sus recursos naturales, de sus actividades productivas y del equilibrio entre los asentamientos humanos y sus condiciones ambientales;VI. Las necesidades que en materia de desarrollo urbano planteen el volumen, estructura, dinámica y distribución de la población;
 
 VII. Las estrategias generales para prevenir los impactos negativos en el medio ambiente urbano y rural, originado por la fundación, conservación, mejoramiento y crecimiento de los centros de población;
 
@@ -456,9 +438,7 @@ El artículo 79 señala que, en el diseño arquitectónico y construcción de cu
 
 I. Unifamiliares, entendiéndose como tales, aquellas que constan de uno o más niveles, construidas individualmente en un solo lote.II. Plurifamiliares, entendiéndose como tales, aquellas que son edificadas en forma vertical, integradas en un solo edificio de dos o más viviendas, y cuya característica principal es el compartimiento de un muro, el entrepiso o una escalera común que las intercomunica.III. Conjuntos habitacionales, cuyas características serán determinadas por los reglamentos de fraccionamientos y de construcciones, respectivamente.
 
-### El artículo 91 establece que los anteproyectos para la instalación, construcción o modificación de la infraestructura y el equipamiento urbano, así como los servicios públicos, serán sometidos a la consideración del ayuntamiento respectivo, a través de sus dependencias, quienes podrán solicitar el dictamen técnico a la Secretaría de Planeación Urbana, Infraestructura, Movilidad, Medio Ambiente y Recursos Naturales del Estado para determinar, en su caso, si los mismos son acordes con los planes o programas de desarrollo urbano, o si deben considerarse como un plan parcial o sectorial.
-
-## Actualización del Programa Subregional de Desarrollo Urbano de la región de Loreto-Nopoló-Notrí-Puerto Escondido-Ligüí-Ensenada Blanca
+El artículo 91 establece que los anteproyectos para la instalación, construcción o modificación de la infraestructura y el equipamiento urbano, así como los servicios públicos, serán sometidos a la consideración del ayuntamiento respectivo, a través de sus dependencias, quienes podrán solicitar el dictamen técnico a la Secretaría de Planeación Urbana, Infraestructura, Movilidad, Medio Ambiente y Recursos Naturales del Estado para determinar, en su caso, si los mismos son acordes con los planes o programas de desarrollo urbano, o si deben considerarse como un plan parcial o sectorial.
 
 Ley de Turismo para el Estado de Baja California Sur. Última reforma publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur: 30 de junio del 2022.
 
@@ -483,10 +463,6 @@ Dentro del artículo 4° se explica que corresponde al Gobierno del Estado, en m
 * VII. La regulación de las obras, instalaciones, equipos y acciones para el manejo y disposición final de los residuos sólidos que no sean peligrosos conforme a esta Ley y sus disposiciones reglamentarias, en coordinación con los municipios.
 * X. La prevención y control de la contaminación de aguas federales asignadas o concesionadas al gobierno del Estado para la prestación de servicios públicos, de acuerdo con los parámetros de las normas técnicas establecidas, así como regular el aprovechamiento racional de aguas de jurisdicción estatal.
 
-***
-
-## Actualización del Programa Subregional de Desarrollo Urbano de la región de Loreto-Nopoló-Notrí-Puerto Escondido-Ligüí-Ensenada Blanca
-
 XI. Promover el tratamiento y reúso de las aguas residuales, como condición fundamental para el aprovechamiento de los recursos hidráulicos del Estado.
 
 En su artículo 5° se desagregan las acciones que corresponden a los gobiernos municipales con el concurso, según sea el caso, del gobierno del Estado, dentro de sus respectivas circunscripciones territoriales, en las que se encuentran las siguientes:
@@ -495,9 +471,7 @@ III. Estructurar el ordenamiento ecológico municipal con los Programas de Desar
 
 XVIII. Prevenir y controlar la contaminación de aguas federales que tengan asignadas o concesionadas para la prestación de servicios públicos y de las que se descarguen en las redes de alcantarillado de los centros de población, sin perjuicio de las facultades de la federación en materia de tratamiento, descarga, infiltración y reúso de aguas residuales, conforme a las disposiciones legales en la materia.XIX. Autorizar las descargas de aguas residuales en los sistemas de drenaje y alcantarillado, y establecer condiciones particulares de descarga de dichos sistemas.XX. Promover en coordinación con el gobierno del Estado el tratamiento y reúso de aguas residuales, como condición fundamental para el apoyo de los recursos hidráulicos del Estado.XXI. Prevenir y controlar la contaminación originada por energía en cualquiera de sus formas, emisiones de ruidos, vibraciones, desechos industriales, contaminación visual y olores perjudiciales al equilibrio ecológico o al ambiente salvo en las zonas o en los casos de fuentes emisoras de jurisdicción federal.XXII. La regulación del manejo y disposición final de los residuos sólidos que no sean peligrosos conforme a esta Ley y sus disposiciones reglamentarias.
 
-### En el artículo 8°, fracción V, se indica que corresponde a la Secretaría de Planeación Urbana, Infraestructura, Movilidad, Medio Ambiente y Recursos Naturales (antes Secretaría de Planeación Urbana y Ecológica del Estado) planificar el desarrollo de centros de población dentro del marco del ordenamiento ecológico y vigilar que la tecnología aplicada no genere impactos negativos a los ecosistemas.
-
-## Actualización del Programa Subregional de Desarrollo Urbano de la región de Loreto-Nopoló-Notrí-Puerto Escondido-Ligüí-Ensenada Blanca
+En el artículo 8°, fracción V, se indica que corresponde a la Secretaría de Planeación Urbana, Infraestructura, Movilidad, Medio Ambiente y Recursos Naturales (antes Secretaría de Planeación Urbana y Ecológica del Estado) planificar el desarrollo de centros de población dentro del marco del ordenamiento ecológico y vigilar que la tecnología aplicada no genere impactos negativos a los ecosistemas.
 
 En los artículos 12 y 13 explica que, en la planeación del desarrollo estatal, municipal, centros de población y zonas conurbadas, será considerada la política ecológica ambiental y el ordenamiento ecológico que se establezcan de conformidad con esta Ley y las demás disposiciones de la materia; así como la obligación de incluir estudios y evaluaciones de impacto ambiental sobre aquellas obras, acciones o servicios que se realicen en el Estado.
 
@@ -523,10 +497,6 @@ El artículo 63 establece los criterios para prevenir y controlar la contaminaci
 1. En la ordenación, planeación y regulación del desarrollo urbano.
 2. En la operación de los sistemas de limpia y de disposición final de residuos en rellenos sanitarios.
 
-***
-
-## Actualización del Programa Subregional de Desarrollo Urbano de la región de Loreto-Nopoló-Notrí-Puerto Escondido-Ligüí-Ensenada Blanca
-
 III. En el otorgamiento de autorizaciones para la realización de actividades relacionadas con plaguicidas, fertilizantes y sustancias tóxicas.
 
 IV. En el otorgamiento de autorizaciones para la instalación y operación de confinamientos o depósitos de residuos.
@@ -545,9 +515,7 @@ El artículo 93 señala que las fraccionadoras, urbanizadoras y desarrolladoras 
 
 Ley de Participación Ciudadana para el Estado de Baja California Sur. Última reforma publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur: 14 de diciembre del 2021
 
-### Esta Ley fue publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur el 20 de julio del 2017. De acuerdo con su artículo 1°, esta Ley tiene por objeto promover, instituir y regular los mecanismos e instrumentos de Participación Ciudadana en el Estado de Baja California Sur.
-
-## Actualización del Programa Subregional de Desarrollo Urbano de la región de Loreto-Nopoló-Notrí-Puerto Escondido-Ligüí-Ensenada Blanca
+Esta Ley fue publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur el 20 de julio del 2017. De acuerdo con su artículo 1°, esta Ley tiene por objeto promover, instituir y regular los mecanismos e instrumentos de Participación Ciudadana en el Estado de Baja California Sur.
 
 El artículo 2° indica que la participación ciudadana es el derecho de las ciudadanas y los ciudadanos del Estado de Baja California Sur a intervenir y participar, individual o colectivamente, en las decisiones públicas, en la formulación, ejecución y evaluación de las políticas, programas y actos de gobierno; siendo ésta la vía para la solución de problemas de interés general y al mejoramiento de las normas que regulan las relaciones en la comunidad, para lo que deberá considerarse la utilización de los medios de comunicación para la información, difusión, capacitación y educación, para el desarrollo de una cultura de la participación ciudadana.
 
@@ -570,13 +538,11 @@ La Ley Orgánica del Gobierno Municipal del Estado de Baja California Sur fue pu
 
 El artículo 51 presenta las facultades y obligaciones de los Ayuntamientos en materia de obra pública y desarrollo urbano, específicamente en la fracción b) el Ayuntamiento deberá formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal, así como planear y regular de manera conjunta y coordinada con la Federación, el gobierno de Estado y los Ayuntamientos respectivos, el desarrollo de los centros urbanos, cuando dichos centros se encuentren situados en territorios de los municipios del Estado o en los de éste con otro vecino, de manera que formen o tiendan a formar una continuidad demográfica, debiendo apegarse a las leyes de la materia.
 
-### Asimismo, con respecto a la Planeación del Desarrollo Municipal, en el artículo 187 se menciona que cada ayuntamiento deberá elaborar su Plan de Desarrollo Municipal y los programas de trabajo necesarios para su ejecución en forma democrática y participativa.
-
-## Actualización del Programa Subregional de Desarrollo Urbano de la región de Loreto-Nopoló-Notrí-Puerto Escondido-Ligüí-Ensenada Blanca
+Asimismo, con respecto a la Planeación del Desarrollo Municipal, en el artículo 187 se menciona que cada ayuntamiento deberá elaborar su Plan de Desarrollo Municipal y los programas de trabajo necesarios para su ejecución en forma democrática y participativa.
 
 Además, para incorporar a las demás dependencias en el desarrollo municipal, en el artículo 192 establece que el Plan de Desarrollo Municipal se complementará con programas anuales sectoriales de la administración municipal y con programas especiales de los organismos desconcentrados y descentralizados de carácter municipal.
 
-## Marco jurídico Municipal
+#### 1.2.3. Marco jurídico Municipal
 
 Reglamento de Planeación Municipal del Ayuntamiento de Loreto, Baja California Sur. Publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur: 20 de junio de 2006
 
@@ -596,9 +562,7 @@ El artículo 22, segundo párrafo, señala que: el Plan precisará los objetivos
 
 En el artículo 23, se establece que el Plan indicará los Programas Sectoriales, Regionales y Especiales que deberán ser elaborados.
 
-### Estos programas observarán congruencia con el Plan y sus vigencias no excederán del período constitucional de la gestión municipal en que se aprueben, aunque sus previsiones y proyecciones puedan referirse a un plazo mayor.
-
-## Actualización del Programa Subregional de Desarrollo Urbano de la región de Loreto-Nopoló-Notrí-Puerto Escondido-Ligüí-Ensenada Blanca
+Estos programas observarán congruencia con el Plan y sus vigencias no excederán del período constitucional de la gestión municipal en que se aprueben, aunque sus previsiones y proyecciones puedan referirse a un plazo mayor.
 
 Reglamento Interior de la Comisión Consultiva de Desarrollo Urbano del Municipio de Loreto, Baja California Sur. Publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur: 10 de abril de 2008
 
@@ -616,9 +580,7 @@ El artículo 3 indica que las acciones de conservación de la imagen urbana del 
 
 El artículo 9 indica que las obras de construcción, modificación, ampliación, restauración, demoliciones, así como el uso de las edificaciones y los usos, destinos y reservas de los predios ubicados dentro del Centro Histórico, se sujetarán a la Ley Federal sobre Monumentos y Zonas Arqueológicas, Artísticas e Históricas, a la Ley de Desarrollo Urbano del Estado de Baja California Sur, a las disposiciones de este Reglamento y demás aplicables.
 
-### El artículo 10 señala que todos los edificios históricos o de valor patrimonial que se encuentren inscritos en el catálogo nacional de monumentos históricos inmuebles, deberán conservar su aspecto formal y no se permitirá cambio o adición de elementos en sus fachadas sin aprobación del INAH y la autorización expresa de la Dirección General de Asentamientos Humanos y Obras Públicas del Ayuntamiento, conforme lo establece el Reglamento Estatal de Construcciones.
-
-## Actualización del Programa Subregional de Desarrollo Urbano de la región de Loreto-Nopoló-Notrí-Puerto Escondido-Ligüí-Ensenada Blanca
+El artículo 10 señala que todos los edificios históricos o de valor patrimonial que se encuentren inscritos en el catálogo nacional de monumentos históricos inmuebles, deberán conservar su aspecto formal y no se permitirá cambio o adición de elementos en sus fachadas sin aprobación del INAH y la autorización expresa de la Dirección General de Asentamientos Humanos y Obras Públicas del Ayuntamiento, conforme lo establece el Reglamento Estatal de Construcciones.
 
 En los artículos 18, 19 y 20 se habla de la zonificación del Centro Histórico, en donde indica que la división de zonas se ha establecido siguiendo un criterio de jerarquización, tomando en cuenta la densidad de los ambientes e inmuebles patrimoniales, la calidad de los mismo y la homogeneidad del entorno, así como su capacidad de recuperación. Se le denomina Zona A al área en que existe una importante concentración de inmuebles patrimoniales, considerada como el primer asentamiento humano, la cual debe conservarse en forma integral y rigurosa. Y la Zona B es aquella que estando estrechamente vinculada a la Zona A, contiene una menor densidad de arquitectura patrimonial, el contexto urbano y arquitectónico de esta zona no es homogéneo, en la cual se debe priorizar el rescate y conservación del patrimonio construido, con cierta flexibilidad.
 
@@ -638,9 +600,7 @@ El artículo 16 dice que solo se permitirá el establecimiento de centros de des
 
 Reglamento interno del Organismo Operador del Sistema de Agua Potable, Drenaje Alcantarillado, Tratamiento y Disposición de Aguas Residuales del Municipio de Loreto, Baja California Sur. Publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur: 20 de marzo de 2000.
 
-### Este reglamento se publicó el 20 de marzo de 2000 en el Boletín Oficial del Gobierno del Estado de Baja California Sur. En el artículo 3 explica que el Organismo Operador Municipal del Sistema de Agua Potable y Alcantarillado de Loreto tiene las siguientes facultades y atribuciones en materia de desarrollo urbano:
-
-## Actualización del Programa Subregional de Desarrollo Urbano de la región de Loreto-Nopoló-Notrí-Puerto Escondido-Ligüí-Ensenada Blanca
+Este reglamento se publicó el 20 de marzo de 2000 en el Boletín Oficial del Gobierno del Estado de Baja California Sur. En el artículo 3 explica que el Organismo Operador Municipal del Sistema de Agua Potable y Alcantarillado de Loreto tiene las siguientes facultades y atribuciones en materia de desarrollo urbano:
 
 I. Atender la operación, administración y conservación de las instalaciones y obras que integran el Sistema de Agua Potable y Alcantarillado, Sanitario y Pluvial de las poblaciones comprendidas dentro del Municipio de Loreto.
 
@@ -663,19 +623,15 @@ Asimismo, establece que dentro de las atribuciones de la Dirección de Asentamie
 * h. Evitar por todos los medios que los residuos sólidos desechos originen focos de infección, peligro o molestias para la ciudad o la propagación de enfermedades.
 * i. Prestar el servicio de limpia.
 
-***
+### 1.3. Objetivo general y particulares
 
-## Actualización del Programa Subregional de Desarrollo Urbano de la región de Loreto-Nopoló-Notrí-Puerto Escondido-Ligüí-Ensenada Blanca
-
-## 1.3. Objetivo general y particulares
-
-## 1.3.1. General
+#### 1.3.1. General
 
 Derivado de los nuevos procesos sociales, la diversificación de actividades y la dinámica demográfica, se requiere de un replanteamiento estratégico para la planeación urbano-turística de la región, que contribuya a la detonación y fortalecimiento como destino turístico, conservación del medio ambiente, mejorando la calidad de vida de sus habitantes, por lo que se plantea actualizar el Programa Subregional de Desarrollo Urbano de la Región Loreto-Nopoló-Notrí-Puerto Escondido-Ligüí-Ensenada Blanca.
 
 La actualización del Programa Subregional permitirá elaborar un instrumento técnico y normativo para el ordenamiento territorial, donde se definan las líneas de acción para la organización territorial, el desarrollo económico y social, se instrumenten los reglamentos y/o normativas necesarias que permitan el mejoramiento de la calidad de vida de la población, en congruencia con las disposiciones legales que aplican para su publicación oficial e inscripción.
 
-## 1.3.2. Particulares
+#### 1.3.2. Particulares
 
 1. Definir el marco normativo (leyes, reglamentos, planes y programas superiores) que fundamenten el instrumento denominado “Actualización del Programa Subregional de Desarrollo Urbano de La Región de Loreto-Nopoló-Notrí-Puerto Escondido-Ligüí-Ensenada Blanca”, en congruencia con sus tres órdenes de gobierno y en compatibilidad con otros sectores de planeación para el desarrollo urbano y ordenamiento territorial, como son la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Planeación, Ley General de Asentamientos Humanos, Ordenamiento Territorial y de Desarrollo Urbano, Ley de Ordenamiento Territorial y Desarrollo Urbano para el Estado de Baja California Sur, y otras leyes federales, estatales y municipales en materia de desarrollo urbano y ordenamiento territorial, así como las Normas Oficiales Mexicanas.
 2. Delimitar la extensión territorial, colindancias físico-espaciales y área de influencia de la zona de estudio a partir de límites georreferenciados que validen la confiabilidad del instrumento.
@@ -684,18 +640,13 @@ La actualización del Programa Subregional permitirá elaborar un instrumento t�
 5. Realizar un proceso de planeación participativa (talleres de planeación) y evaluar técnicamente los planteamientos de la sociedad y los grupos interesados en dicho instrumento.
 6. Crear los insumos necesarios que sirvan de base para la constitución de un sistema de información geográfica y estadística, que faciliten el desarrollo urbano y el mantenimiento del área de actuación del Programa Subregional.
 7. Determinar la normatividad aplicable en la zona de estudio, a fin de prever la regulación del suelo, la distribución espacial y protección ecológica en la zona.
+8. Definir los usos de suelo y establecer la tabla de compatibilidad y destinos de los principales asentamientos, estipulada en las normatividades vigentes del municipio o, en su caso, del Estado.
+9. Generar una estrategia general aplicable al ordenamiento territorial en función de sus recursos naturales, de sus actividades productivas y sus condiciones ambientales.
+10. Definir la instrumentación con base en las prioridades y etapas de desarrollo que garanticen la eficiencia y optimización para la ejecución del Programa Subregional.
 
-***
+### 1.4 Planeación estratégica
 
-## Actualización del Programa Subregional de Desarrollo Urbano de la región de Loreto-Nopoló-Notrí-Puerto Escondido-Ligüí-Ensenada Blanca
-
-9. Definir los usos de suelo y establecer la tabla de compatibilidad y destinos de los principales asentamientos, estipulada en las normatividades vigentes del municipio o, en su caso, del Estado.
-10. Generar una estrategia general aplicable al ordenamiento territorial en función de sus recursos naturales, de sus actividades productivas y sus condiciones ambientales.
-11. Definir la instrumentación con base en las prioridades y etapas de desarrollo que garanticen la eficiencia y optimización para la ejecución del Programa Subregional.
-
-## Planeación estratégica
-
-## Planeación nacional
+#### 1.4.1 Planeación nacional
 
 Plan Nacional de Desarrollo 2019-2024 Publicado en el Diario Oficial de la Federación el 12 de julio de 2019, el Plan Nacional de Desarrollo indica los principios rectores de la política y los ejes principales a considerar en el periodo de la administración pública federal 2019-2024, siendo los siguientes:
 
@@ -720,11 +671,6 @@ El PND 2019-2024, establece los objetivos y estrategias nacionales que serán la
 
 1. Política y Gobierno: hacia una democracia participativa y libertad e Igualdad;
 2. Política Social: construir un país con bienestar y desarrollo sostenible;
-
-***
-
-## Actualización del Programa Subregional de Desarrollo Urbano de la región de Loreto-Nopoló-Notrí-Puerto Escondido-Ligüí-Ensenada Blanca
-
 3. Economía: detonar el crecimiento, mantener finanzas sanas, rescate del sector energético, impulsar la reactivación económica, el mercado interno y el empleo, construcción de caminos rurales y ciencia y tecnología.
 
 Estrategia Nacional de Ordenamiento Territorial 2020-2024
@@ -733,10 +679,11 @@ El 9 de abril de 2021 se publicó el acuerdo por el que se expide la Estrategia 
 
 A continuación, se describen de manera breve los tres ejes nacionales:
 
-| Eje Nacional 1. Estructuración territorial | Se enfoca en fortalecer sinergias entre los asentamientos humanos atendiendo la estructura y el funcionamiento del sistema; identificar los sitios más adecuados para el mejor aprovechamiento de la función social, ambiental y económica de la infraestructura y los equipamientos estratégicos; así como conservar, regular y proteger los ecosistemas atendiendo su potencial, capacidad de carga y sus vínculos con el espacio socialmente construido. |
-| ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Eje Nacional 2. Desarrollo territorial     | Donde se prioriza procurar la igualdad socioespacial enfocado en atender derechos fundamentales, especialmente en grupos vulnerables; promover un desarrollo económico equilibrado espacialmente; aprovechar de manera sostenible los ecosistemas; así como promover la prevención y mitigación ante los efectos del cambio climático.                                                                                                                      |
-| Eje Nacional 3. Gobernanza territorial     | Tiene por objetivos conformar espacios de diálogo, coordinación y concertación entre actores; orientar programas sectoriales, regionales y especiales; e incorporar los lineamientos en los planes y programas de ordenamiento en todas las escalas.                                                                                                                                                                                                        |
+Eje Nacional 1. Estructuración territorial Se enfoca en fortalecer sinergias entre los asentamientos humanos atendiendo la estructura y el funcionamiento del sistema; identificar los sitios más adecuados para el mejor aprovechamiento de la función social, ambiental y económica de la infraestructura y los equipamientos estratégicos; así como conservar, regular y proteger los ecosistemas atendiendo su potencial, capacidad de carga y sus vínculos con el espacio socialmente construido.
+
+Eje Nacional 2. Desarrollo territorial Donde se prioriza procurar la igualdad socioespacial enfocado en atender derechos fundamentales, especialmente en grupos vulnerables; promover un desarrollo económico equilibrado espacialmente; aprovechar de manera sostenible los ecosistemas; así como promover la prevención y mitigación ante los efectos del cambio climático.
+
+Eje Nacional 3. Gobernanza territorial Tiene por objetivos conformar espacios de diálogo, coordinación y concertación entre actores; orientar programas sectoriales, regionales y especiales; e incorporar los lineamientos en los planes y programas de ordenamiento en todas las escalas.
 
 Estrategia Nacional de Turismo 2019-2024
 
@@ -748,9 +695,7 @@ La Estrategia se publicó dentro del comunicado presidencial No 023-2019 el 25 d
 4. Conciliar el crecimiento económico en conjunto con el social mediante el turismo.
 5. Diversificar los mercados para lograr posicionar los destinos y productos.
 
-### A la par de estas estrategias, se determinaron cinco proyectos detonadores de la actividad turística nacional, entre los cuales se encuentran: 1) Tren Maya; 2) fortalecer destinos, el cual se enfoca en una política de regionalización extensiva para todo el país, a través de la cual se busca que la
-
-## Actualización del Programa Subregional de Desarrollo Urbano de la región de Loreto-Nopoló-Notrí-Puerto Escondido-Ligüí-Ensenada Blanca
+A la par de estas estrategias, se determinaron cinco proyectos detonadores de la actividad turística nacional, entre los cuales se encuentran: 1) Tren Maya; 2) fortalecer destinos, el cual se enfoca en una política de regionalización extensiva para todo el país, a través de la cual se busca que la
 
 Actividad turística sea más equilibrada; 3) fortalecer el mercado interno: a través de este proyecto se busca incrementar el potencial turístico doméstico para disminuir la estacionalidad en temporadas bajas y medias; 4) diversificación de mercados, impulso a negocios efectivos y desarrollo de esquemas de comercialización; y 5) vinculación multisectorial e interinstitucional: considerando un enfoque de bienestar y desarrollo integral.
 
