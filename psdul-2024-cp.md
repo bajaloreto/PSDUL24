@@ -85,6 +85,8 @@ En el siguiente apartado se abordan las bases jurídicas que sustentan la formul
 
 #### &#x20;1.2.1. Marco jurídico federal
 
+
+
 **Constitución Política de los Estados Unidos Mexicanos Última reforma publicada en el Diario Oficial de la Federación: 22 de marzo de 2024**
 
 En éste, se presentan las normas generales de convivencia social con aplicación en todo el país; también se derivan el resto de las leyes, donde se establecen las atribuciones de cada nivel de gobierno para cada uno de los sectores. En el artículo 4º se establece como garantía individual, el derecho a tener un medio ambiente sano para que toda persona pueda disfrutar del desarrollo y bienestar y se reconoce que toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible.
@@ -798,7 +800,7 @@ Su misión establece: planear, programar y ejecutar los proyectos de desarrollo 
 
 ***
 
-## Actualización del Programa Subregional de Desarrollo Urbano de la región de Loreto-Nopoló-Notrí-Puerto Escondido-Ligüí-Ensenada Blanca
+##
 
 VI. Implementar un sistema de información geográfica que permite la generación, actualización y análisis de información para la toma de decisiones y el seguimiento a la instrumentación de acciones y metas programadas.
 
